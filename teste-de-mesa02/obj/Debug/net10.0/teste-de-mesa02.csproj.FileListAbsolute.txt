@@ -1,0 +1,14 @@
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\bin\Debug\net10.0\teste-de-mesa02.exe
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\bin\Debug\net10.0\teste-de-mesa02.deps.json
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\bin\Debug\net10.0\teste-de-mesa02.runtimeconfig.json
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\bin\Debug\net10.0\teste-de-mesa02.dll
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\bin\Debug\net10.0\teste-de-mesa02.pdb
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\obj\Debug\net10.0\teste-de-mesa02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\obj\Debug\net10.0\teste-de-mesa02.AssemblyInfoInputs.cache
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\obj\Debug\net10.0\teste-de-mesa02.AssemblyInfo.cs
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\obj\Debug\net10.0\teste-de-mesa02.csproj.CoreCompileInputs.cache
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\obj\Debug\net10.0\teste-de-mesa02.dll
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\obj\Debug\net10.0\refint\teste-de-mesa02.dll
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\obj\Debug\net10.0\teste-de-mesa02.pdb
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\obj\Debug\net10.0\teste-de-mesa02.genruntimeconfig.cache
+C:\Users\alanvinicius\OneDrive\Documentos\BNE\teste-de-mesa02\obj\Debug\net10.0\ref\teste-de-mesa02.dll
